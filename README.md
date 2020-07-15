@@ -1,11 +1,11 @@
-#Hi there, Dira here👋
+## Hi there, Dira here👋
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
   <br>
 </p>
 
-I'm a software engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and PHP. 
+I'm a software developer who is passionate about making open-source more accessible. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and PHP. I am happy to learn about new technology and also working as software developer in [vertilogic.com](https://vertilogic.com).
 
 ## Find me around the web 🌎:
 - my website [apsyadira.com](https://apsyadira.com)
