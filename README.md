@@ -1,7 +1,7 @@
 ## Hi there, Dira here👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=revell29&count_private=true&theme=dracula)
-
+![github_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=revell29&layout=compact&theme=dracula)
 
 I'm a software developer who is passionate about making open-source more accessible. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and PHP. I am happy to learn about new technology and also working as software developer in [vertilogic.com](https://vertilogic.com).
 I also have a team called [digitaltech.id](https://digitaltech.id) that helps people grow up their business. Making a website, mobile apps, and even IT consultant.
