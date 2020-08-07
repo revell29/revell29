@@ -6,7 +6,7 @@ I also have a team called [digitaltech.id](https://digitaltech.id) that helps pe
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=revell29&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
-![github_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=revell29&layout=compact&theme=dracula)
+![github_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
 **Languages and Tools:**  
 
