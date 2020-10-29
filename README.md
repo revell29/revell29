@@ -2,8 +2,6 @@
 
 I'am a fullstack software developer, working with PHP and Javascript for backend. 
 
-![Revell29 github stats](https://github-readme-stats.vercel.app/api?username=revell29&count_private=true&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE&line_height=20)
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
