@@ -1,6 +1,14 @@
 ## Hi there, Dira here👋
 
-I'am a fullstack software developer, working with PHP and Javascript for backend. 
+I'm.
+high motivated
+professional
+Achievement Addict
+goals and Achievements
+Fast Learning
+I'll make my legs keep walking to get achievement and DREAMS.
+
+Currently, I am working as a Fullstack developer and using Laravel, Nodejs for backend, and React for Frontend. Need a website or apps ? contact me to start business. 
 
 **Languages and Tools:**  
 
