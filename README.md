@@ -1,14 +1,14 @@
 ## Hi there, Dira here👋
 
 I'm.
-high motivated
-professional
-Achievement Addict
-goals and Achievements
-Fast Learning
+high motivated,
+professional,
+Achievement Addict,
+goals and Achievements,
+Fast Learning,
 I'll make my legs keep walking to get achievement and DREAMS.
 
-Currently, I am working as a Fullstack developer and using Laravel, Nodejs for backend, and React for Frontend. Need a website or apps ? contact me to start business. 
+Currently, I am working as a Fullstack developer using Nodejs and React. Need a website or apps ? contact me to start business. 
 
 **Languages and Tools:**  
 
