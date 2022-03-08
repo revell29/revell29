@@ -7,7 +7,6 @@ I'll make my legs keep walking to get achievement and DREAMS.
 Currently, I am working as
 - Fullstack developer at [Jubelio](https://jubelio.com)
 - Founder [Towedd](https://towedd.com). Platform Wedding E-invitation
-- Founder [Digitaltech.id](https://digitaltech.id)
 
 Need a website or apps ? contact me to start business. 
 
