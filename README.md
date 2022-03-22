@@ -5,8 +5,10 @@ high motivated, professional, Achievement Addict, goals and Achievements, Fast L
 I'll make my legs keep walking to get achievement and DREAMS.
 
 Currently, I am working as
-- Fullstack developer at [Jubelio](https://jubelio.com)
-- Founder [Towedd](https://towedd.com). Platform Wedding E-invitation
+- Software engineer at [Jubelio Omnichannel](https://jubelio.com)
+- I’m currently learning Flutter The Clean Architecture and Go.
+- Ask me about anything related to React, JavaScript, and Testing.
+- I’m looking to collaborate on any open source projects related to React and JavaScript
 
 Need a website or apps ? contact me to start business. 
 
